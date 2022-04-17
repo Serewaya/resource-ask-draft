@@ -9,6 +9,7 @@ Resource ASK has 4 main factors that contribute to resource categorization **Cat
 |--------------------------|------------------|-----------------|-----------------|
 | https://example.com      | Loans            | 05-30-2022      | None            |
 
+
 ---
 
 ### Category
