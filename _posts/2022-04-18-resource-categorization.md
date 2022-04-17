@@ -21,7 +21,7 @@ The Resource ASK team is able to find the category from sifting through the reso
 
 The expiration date is the time that applications are due or date that the opportunity is no longer being offered. The Resource ASK team gets this date directly from accessing the resource itself.
 
-Also the expiration date is the key which shows when the resource gets put into the “recycling bin” otherwise known as when it gets removed from the main database.
+The expiration date is also the key which shows when the resource gets put into the “recycling bin” otherwise known as when it gets removed from the main database.
 
 ### Area
 
