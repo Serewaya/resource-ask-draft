@@ -33,4 +33,4 @@ Sometimes resources are offered only for individuals of a specific gender, so du
 
 ---
 
-**These clauses are all available to be searched for through the Resource ASK Bot’s output command. If you want to opt out of searching for specific clauses leave the space as black and the search will return with all listings in that field. **
+**These clauses are all available to be searched for through the Resource ASK Bot’s output command. If you want to opt out of searching for specific clauses leave the space as black and the search will return with all listings in that field.**
