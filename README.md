@@ -38,9 +38,8 @@ In the Resource ASK Slack Workspace there are many Black entrepreneurs spread ac
 ---
 
 ## Demo Videos
+{% include embed.html url="https://user-images.githubusercontent.com/58146873/163861249-9679c530-b2fc-4292-aa76-10b625c39b89.mp4" %}
 
-https://user-images.githubusercontent.com/58146873/163861249-9679c530-b2fc-4292-aa76-10b625c39b89.mp4
+{% include embed.html url="https://user-images.githubusercontent.com/58146873/163861430-aaeed3dd-9d7e-4ec9-8557-86a109b75233.mp4" %}
 
-https://user-images.githubusercontent.com/58146873/163861430-aaeed3dd-9d7e-4ec9-8557-86a109b75233.mp4
-
-https://user-images.githubusercontent.com/58146873/163861498-e4501d43-f34a-44ca-a299-9344d6608dcf.mp4
+{% include embed.html url="https://user-images.githubusercontent.com/58146873/163861498-e4501d43-f34a-44ca-a299-9344d6608dcf.mp4" %}
