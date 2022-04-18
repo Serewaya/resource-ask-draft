@@ -14,7 +14,7 @@ Resource ASK has 4 main factors that contribute to resource categorization **Cat
 
 ### Category
 
-The category is the main classification of the resource, it shows what the resource is used for. Access this link for a comprehensive list of all the available categories.
+The category is the main classification of the resource, it shows what the resource is used for. Access this [link](https://serewaya.github.io/resource-ask/avaliable-categories/) for a comprehensive list of all the available categories.
 
 The Resource ASK team is able to find the category from sifting through the resource url, this aspect is also the most important in terms of resource categorization.
 
