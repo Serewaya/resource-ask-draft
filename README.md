@@ -8,14 +8,20 @@ layout: page
 
 A great percentage of Black entrepreneurs do not have access to support or advice to help them run their businesses. Access to funding, financing, capital and sales is a great challenge for Black entrepreneurs with 75% of them saying that if they need $10,000 to support their business it would be difficult for them to do so.
 
+---
+
 ## A Deeper Look
 
 ![Statistics](https://user-images.githubusercontent.com/58146873/163860054-21087e5c-e5e5-4fc0-bb74-803fb130b299.png)
+
+---
 
 ## Who We Are
 
 #### Resource ASK is a Black led organization with a mission to spread curated business resources to Black entrepreneurs.
 _By sharing relevant loans, bootcamps, and webinars, in addition to offering networking opportunities Resource ASK sets Black entrepreneurs onto the road to success._
+
+---
 
 ##### Our Services
 ## The Resource ASK Chat Bot
@@ -28,6 +34,8 @@ It searches the web for key word’s related to business resources and send’s 
 
 #### Black entrepreneurs get much less networking opportunities then their non-black counterparts, to solve this problem the Resource ASK Slack Workspace connects these entrepreneurs to successful entrepreneurs that are also Black. 
 In the Resource ASK Slack Workspace there are many Black entrepreneurs spread across a variety of business sectors ready to make connections and advise any entrepreneurs in need of support. Resources ASK also offers mentorship opportunities to entrepreneurs starting out, through a 2-step quiz the Resource ASK Team connects new entrepreneurs to experienced entrepreneurs in their sector who would act as their mentor.
+
+---
 
 ## Demo Videos
 
