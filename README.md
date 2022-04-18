@@ -4,96 +4,35 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## The Challenge
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+A great percentage of Black entrepreneurs do not have access to support or advice to help them run their businesses. Access to funding, financing, capital and sales is a great challenge for Black entrepreneurs with 75% of them saying that if they need $10,000 to support their business it would be difficult for them to do so.
 
-## Features
+## A Deeper Look
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+![Statistics](https://user-images.githubusercontent.com/58146873/163860054-21087e5c-e5e5-4fc0-bb74-803fb130b299.png)
 
-## Based on
+## Who We Are
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+#### Resource ASK is a Black led organization with a mission to spread curated business resources to Black entrepreneurs.
+_By sharing relevant loans, bootcamps, and webinars, in addition to offering networking opportunities Resource ASK sets Black entrepreneurs onto the road to success._
 
-## Installation (jekyll-remote-theme method)
+##### Our Services
+## The Resource ASK Chat Bot
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+#### The key to spreading resources to Black entrepreneurs is the Resource ASK Chat Bot. It is a dynamic resource finder that collects web pages related to business resources with a high degree of accuracy. 
+It searches the web for key word’s related to business resources and send’s retrieved webpages to the Resource ASK Team. The Resource ASK Team then categories these webpages according to much benefit they can give to Black entrepreneurs and submits them to a database. When an entrepreneur goes to search for a resource through Slack or our website the Resource ASK Chat Bot will send the most relevant resources from the database to the entrepreneur along with a short blurb. This process ensures for resources to be sent to the entrepreneur efficiently which increases their access to business resources by 40%.
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+##### Our Services
+## Resource ASK Slack Workspace
 
-plugins:
-  - jekyll-remote-theme
-```
+#### Black entrepreneurs get much less networking opportunities then their non-black counterparts, to solve this problem the Resource ASK Slack Workspace connects these entrepreneurs to successful entrepreneurs that are also Black. 
+In the Resource ASK Slack Workspace there are many Black entrepreneurs spread across a variety of business sectors ready to make connections and advise any entrepreneurs in need of support. Resources ASK also offers mentorship opportunities to entrepreneurs starting out, through a 2-step quiz the Resource ASK Team connects new entrepreneurs to experienced entrepreneurs in their sector who would act as their mentor.
 
-Note: to enable icons you also need to copy over the `_data` folder.
+## Demo Videos
 
-## Config
+https://user-images.githubusercontent.com/58146873/163861249-9679c530-b2fc-4292-aa76-10b625c39b89.mp4
 
-Your `_config.yml` could for example look like this:
+https://user-images.githubusercontent.com/58146873/163861430-aaeed3dd-9d7e-4ec9-8557-86a109b75233.mp4
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+https://user-images.githubusercontent.com/58146873/163861498-e4501d43-f34a-44ca-a299-9344d6608dcf.mp4
