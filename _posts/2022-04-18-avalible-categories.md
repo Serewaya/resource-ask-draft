@@ -1,5 +1,5 @@
 ---
-title: "Avalible Categories"
+title: "Available Categories"
 layout: post
 ---
 
@@ -7,7 +7,7 @@ layout: post
 
 The category is the main classification of the resource, it shows what the resource is used for. The Resource ASK team is able to find the category from sifting through the resource url, this aspect is also the most important in terms of resource categorization.
 
-### See this list of avalible categories:
+### See this list of available categories:
 
 
 1. Assistance
