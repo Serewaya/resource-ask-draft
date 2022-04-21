@@ -37,7 +37,7 @@ In the Resource ASK Slack Workspace there are many Black entrepreneurs spread ac
 
 ---
 
-## Demo Videos
+## Chat Bot Demo's
 {% include embed.html url="https://user-images.githubusercontent.com/58146873/163861249-9679c530-b2fc-4292-aa76-10b625c39b89.mp4" %}
 
 {% include embed.html url="https://user-images.githubusercontent.com/58146873/163861430-aaeed3dd-9d7e-4ec9-8557-86a109b75233.mp4" %}
