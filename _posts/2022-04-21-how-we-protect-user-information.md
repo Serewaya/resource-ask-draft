@@ -16,7 +16,7 @@ The two pieces of personal information that the Resource ASK Bot requires are **
 
  All that was stated above provide for information to be indistinct if a data breach occurs to Google which is where the Resource ASK Bot’s activities occur. Which allow for data the data not to hold much relevance to you as an individual which would put you at risk.  
  
- ## We Promise:
+ **We Promise:**
  - No ad's
  - No tracking
  - No social features
