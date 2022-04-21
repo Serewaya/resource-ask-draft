@@ -3,8 +3,6 @@ title: "How Do We Protect User Information?"
 layout: post
 ---
 
-## How Resource ASK Uses User Information
-
 At Resource ASK our user’s privacy is of utmost value to us. This is how we use the information of our users in order to ensure there are no data breaches where our user’s may be compromised.
 
 
